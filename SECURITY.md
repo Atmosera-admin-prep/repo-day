@@ -1,4 +1,4 @@
-# Security Policy
+# Irth Security Policy
 
 ## Supported Versions
 
